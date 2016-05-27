@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/navigation_cyan</item>
+        <item name="android:colorForeground">@color/fg_cyan</item>
+        <item name="android:colorBackground">@color/bg_cyan</item>
+        <item name="android:textColor">@color/black_text</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/black_text</item>
+        <item name="android:textColorPrimary">@color/white_text</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+
+
+</resources>

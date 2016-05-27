@@ -1,0 +1,25 @@
+<resources>
+    <style name="CyanTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimaryDark">@color/status_cyan</item>
+        <item name="android:statusBarColor">@color/status_cyan</item>
+        <item name="android:colorPrimary">@color/navigation_cyan</item>
+        <!--<item name="android:colorPrimary">@color/action_cyan</item>-->
+        <item name="android:windowBackground">@color/window_bg_cyan</item>
+        <item name="android:navigationBarColor">@color/navigation_cyan</item>
+        <item name="android:colorForeground">@color/fg_cyan</item>
+        <item name="android:colorBackground">@color/bg_cyan</item>
+        <item name="android:colorAccent">@color/control_activated_cyan</item>
+        <item name="android:colorControlNormal">@color/black_text</item>
+        <!--<item name="android:colorControlNormal">@color/control_normal_cyan</item>-->
+        <item name="android:colorControlHighlight">@color/control_highlight_cyan</item>
+        <item name="android:colorControlActivated">@color/control_activated_cyan</item>
+        <item name="android:colorButtonNormal">@color/button_normal_cyan</item>
+        <!--<item name="android:textColor">@color/white_text</item>-->
+        <!--<item name="android:textColorPrimaryDisableOnly">@color/white_text</item>-->
+        <!--<item name="android:textColorPrimary">@color/white_text</item>-->
+        <item name="android:textColor">@color/black_text</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/white_text</item>
+        <item name="android:textColorPrimary">@color/white_text</item>
+    </style>
+
+</resources>
